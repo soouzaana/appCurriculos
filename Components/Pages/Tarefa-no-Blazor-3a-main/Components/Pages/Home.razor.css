@@ -1,0 +1,26 @@
+.emanueli {
+  color: rgb(44, 160, 146);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.titulo {
+  color: rgb(7, 127, 89);
+  font-weight: 600;
+}
+
+.conteudo {
+  color: rgb(3, 66, 50); font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-size: 18px;
+}
+
+.imagem {
+  width: 200px;
+  border-radius: 20px;
+}
+
+.pagina {
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+
+}
