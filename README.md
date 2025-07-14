@@ -1,3 +1,7 @@
-Atividade da Disciplina de Projeto de Desenvolvimento de Sistemas. 
-Professor: João Eujácio
-Alunas: Ana Maria, Emanueli, Mariana
+# 💼 Curriculos
+Este repositório faz parte de uma atividade da disciplina de **Projeto de Desenvolvimento de Sistemas**, e contém as páginas desenvolvidas em HTML, CSS puro e Razor para apresentar os currículos das participantes, utilizando o framework Bootstrap.
+
+### 👩🏻 Alunas
+- [Ana Maria](https://github.com/soouzaana)
+- [Emanueli](https://github.com/emanuelixs)
+- [Mariana](https://github.com/Mari0769)
